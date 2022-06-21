@@ -1,0 +1,42 @@
+Laravel
+1)mvc 
+2)route
+3)routing
+4)model
+5)view
+6)cotroller
+
+
+
+
+
+
+
+
+
+
+php
+
+1)oops 
+2)crud
+3)array
+4)string
+4)super global variable : get() and post()
+6)xammp
+7)front end
+8)back end :
+
+
+
+
+
+mvc 
+m-model-database related
+v-view-front end
+c-controller- logical 
+
+
+usefull commond:
+composer create-project laravel/laravel day1
+
+
